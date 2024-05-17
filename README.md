@@ -1,2 +1,2 @@
-# imagecaptiongame
-Quick Game to load random pictures
+# Plant ID Game
+Quick Game to learn plant ID
