@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(#bdbdbd, #fc7878)
+}
+
+h1 {
+    text-align: center;
+    text-size-adjust: 12;
+    text-decoration: none;
+    font-family: cursive;
+    color: rgb(15, 255, 211);
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
